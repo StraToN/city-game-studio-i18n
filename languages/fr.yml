@@ -61,7 +61,7 @@ fr:
   LABEL_SALES_HITS_DESCRIPTION: |
     Salut %s,
 
-    Je sais a quel point tu aimes mes courriels.
+    Je sais à quel point tu aimes mes courriels.
     Alors voilà, puisqu'on peut observer de bonnes ventes, j'ai fait des calculs et aujourd'hui on va parler des ventes de %s
 
     %s
@@ -187,7 +187,7 @@ fr:
   LABEL_FIRE_PERFECT_EMPLOYEE_DESCRIPTION: |
     Bonjour,
 
-    La présente a pour objet de vous faire que je démissionne de mon poste chez [b]%s[/b] dès aujourd'hui.
+    La présente a pour objet de vous faire part que je démissionne de mon poste chez [b]%s[/b] dès aujourd'hui.
     Mon départ s'explique par le fait que j'ai trouvé un nouvel emploi plus près de chez moi, et dans une entreprise plus attrayante.
 
     J'ai beaucoup apprécié les années passées a travailler avec vous, vous me manquerez tous!
@@ -599,7 +599,7 @@ fr:
     Il se dégage trois genre de publics différents:public jeune, tout public, public mature
   LABEL_VIRUS_UNLEASHED_DESCRIPTION: >
     Un virus vient d'émerger. Il s'attaque uniquement aux machines des développeurs de jeux-vidéos.
-    Son effet est curieux, les pointeurs de souris sont ralentis et bougent tout seuls. Défois la machine redémarre.
+    Son effet est curieux, les pointeurs de souris sont ralentis et bougent tout seuls. Parfois la machine redémarre.
     Une chose est sûre, cela va impacter la productivité de vos employés. Un seul studio semble être touché [b]%s[/b]
   LABEL_VIRUS_UNLEASHED_TITLE: Virus détecté
   LABEL_VLOGGER_PUBLISH_A_VIDEO_ABOUT_YOUR_GAME_DESCRIPTION: >
@@ -726,7 +726,7 @@ fr:
   LABEL_CONVENTION_PARTICIPATE: >
     Votre catalogue de jeu mérite d'être vu, participer a des conventions peut vous aider a améliorer votre visibilité
   LABEL_STUDIO_CUSTOMIZE: >
-    Les murs ternes de votre studio vous sappent le moral? Il est temps de les changer
+    Les murs ternes de votre studio vous sapent le moral? Il est temps de les changer
   LABEL_GAME_ONLINE: >
     Comment garder vos joueurs rivés à leurs écrans... INTERNET, faites des jeux en ligne et vous verrez ils ne décrocheront plus!
   LABEL_FURNITURES_SERVERS_BUY: >
